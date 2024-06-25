@@ -5,7 +5,8 @@ Domain:Embedded Systems
 Duration:June to Aug 2024 
 Mentor:N.santhosh kumar 
 Overview of the project:
-                  
+                  ![Screenshot 2024-06-25 204611](https://github.com/chittachandra/task1/assets/173767450/35d5b711-426c-44c4-9e8e-bbad360973af)
+
 
 
  Experiment: LED BLINKING WITH ARDUINO
