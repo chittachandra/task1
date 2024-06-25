@@ -11,7 +11,12 @@ Overview of the project:
 
  Experiment: LED BLINKING WITH ARDUINO
  Objective: The main objective of this experiment to learn the basics of the microcontroller using the Arduino.
- Apparatus: Microcontroller of Arduino board USB B cable LED Resistor(1kohm) Jumper wires Battery Power Source
+ Apparatus: Microcontroller of Arduino board 
+            USB B cable 
+            LED Resistor(1kohm) 
+            Jumper wires
+            Battery
+            Power Source
  Working Procedure: *After completing software installation and coding upload unplug the board.
                     *Connect output pin number of Arduino board with resistor. *Connect resistor with positive terminal of LED. 
                     *Connect negative terminal of LED withground pin of Arduino.
