@@ -5,7 +5,8 @@ Domain:Embedded Systems
 Duration:June to Aug 2024 
 Mentor:N.santhosh kumar 
 Overview of the project:
-                        ![image](https://github.com/chittachandra/task1/assets/173767450/027bae2f-91cd-4837-9972-1769ba771618)
+                        ![Screenshot 2024-06-25 204611](https://github.com/chittachandra/task1/assets/173767450/ad3b1027-face-44b4-9b6a-b6d4837db527)
+
  Experiment: LED BLINKING WITH ARDUINO
  Objective: The main objective of this experiment to learn the basics of the microcontroller using the Arduino.
  Apparatus: Microcontroller of Arduino board USB B cable LED Resistor(1kohm) Jumper wires Battery Power Source
