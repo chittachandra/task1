@@ -1,5 +1,5 @@
-Name:chitta chandra sekhar reddy
-company:code tech it solutions
+Name:Chitta Chandra Sekhar Reddy
+company:CODTECH IT Solutions
 ID:CT12DS1008
 Domain:Embedded Systems
 Duration:June to Aug 2024 
