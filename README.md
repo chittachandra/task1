@@ -1,5 +1,5 @@
 Name:Chitta Chandra Sekhar Reddy
-company:CODTECH IT Solutions
+Company:CODTECH IT Solutions
 ID:CT12DS1008
 Domain:Embedded Systems
 Duration:June to Aug 2024 
